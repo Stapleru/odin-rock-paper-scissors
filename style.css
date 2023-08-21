@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body,
+button {
+    font-size: 24px;
+}
+
+.buttons {
+    margin: 32px auto;
+    
+}
+
+.results {
+    white-space: pre-wrap;
+    text-align: center;
+}
